@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ebc17a1c.css",
+    "main.js": "/Portfolio/static/js/main.52822ca2.js",
+    "static/media/YelpHome.PNG": "/Portfolio/static/media/YelpHome.f2ab4ea42507f296c128.PNG",
+    "static/media/NatoursHome.PNG": "/Portfolio/static/media/NatoursHome.4914a99225d4bb1fd6f8.PNG",
+    "static/media/YelpCamp.PNG": "/Portfolio/static/media/YelpCamp.54504d5e48fa8ef863b1.PNG",
+    "static/media/NatoursTour.PNG": "/Portfolio/static/media/NatoursTour.650b16512be1700ea323.PNG",
+    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/NatoursReview.PNG": "/Portfolio/static/media/NatoursReview.7ff26ee482690732e35e.PNG",
+    "static/media/YelpMap.PNG": "/Portfolio/static/media/YelpMap.02cac9aa4cb2116ef644.PNG",
+    "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/javalogo.png": "/Portfolio/static/media/javalogo.f47c5240bbebf23521e0.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ebc17a1c.css.map": "/Portfolio/static/css/main.ebc17a1c.css.map",
+    "main.52822ca2.js.map": "/Portfolio/static/js/main.52822ca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc17a1c.css",
+    "static/js/main.52822ca2.js"
+  ]
+}
