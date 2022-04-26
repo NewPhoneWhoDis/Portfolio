@@ -22,11 +22,11 @@ const About = () => {
             <p>
               I am passionate about building excellent software that improves
               the lives of those around me. My interests outside the university
-              are: Web Development, Cryptocurrencies, Blockchain, Cryptography,
-              Development of decentralized Applications on the Blockchain and
-              participating in various physical activities like jogging, hiking
-              or going to the gym. I also like playing video games or reading
-              books about Software Engineering and soft skills development!
+              are: Web Development, Cryptocurrencies, Cryptography, Development
+              of decentralized Applications on the Blockchain and participating
+              in various physical activities like jogging, hiking or going to
+              the gym. I also like playing video games or reading books about
+              Software Engineering and soft skills development!
             </p>
           </div>
         </div>
