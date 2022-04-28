@@ -13,10 +13,11 @@ const Contact = () => {
       >
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-green-600 text-gray-300">
-            Contact
+            Kontakt
           </p>
           <p className="text-gray-300 py-4">
-            Submit the form below or shoot me an email - myemail@gmail.com
+            Füllen Sie das untenstehende Formular aus oder schicken Sie mir eine
+            E-Mail - kristiyanmerdzhovb@gmail.com
           </p>
         </div>
         <input
@@ -38,7 +39,7 @@ const Contact = () => {
           placeholder="Message"
         ></textarea>
         <button className="text-white border-2 hover:bg-green-600 hover:border-green-600 px-4 py-3 my-8 mx-auto flex items-center">
-          Submit
+          Einreichen
         </button>
       </form>
     </div>

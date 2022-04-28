@@ -31,7 +31,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="about" smooth={true} duration={500}>
-            About Me
+            Über mich
           </Link>
         </li>
         <li>
@@ -41,12 +41,12 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="work" smooth={true} duration={500}>
-            Projects
+            Projekte
           </Link>
         </li>
         <li>
           <Link to="contact" smooth={true} duration={500}>
-            Contact me
+            Kontakt
           </Link>
         </li>
       </ul>
@@ -72,7 +72,7 @@ const Navbar = () => {
         <li className="py-6 text-4xl">
           {" "}
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
-            About Me
+            Über mich
           </Link>
         </li>
         <li className="py-6 text-4xl">
@@ -84,13 +84,13 @@ const Navbar = () => {
         <li className="py-6 text-4xl">
           {" "}
           <Link onClick={handleClick} to="work" smooth={true} duration={500}>
-            Projects
+            Projekte
           </Link>
         </li>
         <li className="py-6 text-4xl">
           {" "}
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
-            Contact me
+            Kontakt
           </Link>
         </li>
       </ul>
@@ -109,7 +109,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#DC143C]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="mailto:kristiyanmerdzhovb@gmail.com"
             >
               Email <HiOutlineMail size={30} />
             </a>

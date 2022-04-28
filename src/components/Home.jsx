@@ -7,23 +7,23 @@ const Home = () => {
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-green-600">Hi, my name is</p>
+        <p className="text-green-600">Hallo, mein Name ist</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
-          Christian Merdzhov
+          Kristiyan Merdzhov
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Computer Science Student.
+          Ich bin Student der Informatik.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I’m currently learning the MERN stack and the development of
-          decentralized applications along with important software engineering
-          principles. Looking forward to improving my knowledge in the Full
-          Stack development.
+          Zurzeit lerne ich den MERN-Stack und die Entwicklung von dezentralen
+          Applikationen zusammen mit wichtigen Software-Engineering-Prinzipien.
+          Ich freue mich darauf, meine Kenntnisse in der Full Stack Entwicklung
+          zu verbessern.
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-green-600 hover:border-green-600">
-              View Projects
+              Zeige Projekte
               <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight className="ml-3 " />
               </span>
