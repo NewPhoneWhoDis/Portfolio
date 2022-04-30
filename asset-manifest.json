@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ebc17a1c.css",
-    "main.js": "/Portfolio/static/js/main.c293aaab.js",
+    "main.js": "/Portfolio/static/js/main.0a086451.js",
     "static/media/YelpHome.PNG": "/Portfolio/static/media/YelpHome.f2ab4ea42507f296c128.PNG",
     "static/media/NatoursHome.PNG": "/Portfolio/static/media/NatoursHome.4914a99225d4bb1fd6f8.PNG",
     "static/media/YelpCamp.PNG": "/Portfolio/static/media/YelpCamp.54504d5e48fa8ef863b1.PNG",
@@ -20,10 +20,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.ebc17a1c.css.map": "/Portfolio/static/css/main.ebc17a1c.css.map",
-    "main.c293aaab.js.map": "/Portfolio/static/js/main.c293aaab.js.map"
+    "main.0a086451.js.map": "/Portfolio/static/js/main.0a086451.js.map"
   },
   "entrypoints": [
     "static/css/main.ebc17a1c.css",
-    "static/js/main.c293aaab.js"
+    "static/js/main.0a086451.js"
   ]
 }
