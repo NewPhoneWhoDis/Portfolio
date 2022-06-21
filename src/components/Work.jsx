@@ -104,7 +104,7 @@ const Work = () => {
                 Natours Home
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://natourspj.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -128,7 +128,7 @@ const Work = () => {
                 Natours Tour
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://natourspj.herokuapp.com/tour/the-sea-explorer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -151,7 +151,7 @@ const Work = () => {
                 Natours Reviews
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://natourspj.herokuapp.com/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
